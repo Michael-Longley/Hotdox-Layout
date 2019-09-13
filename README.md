@@ -1,2 +1,2 @@
 # Hotdox-Layout
-Layout and JSON for my custom hotdox keyboard.
+Repo to track changes to my keyboard layout and ensure all files are kept up to date for future changes.
